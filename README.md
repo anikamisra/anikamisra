@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 ###
 My name is Anika, and I'm a junior at UCLA studying applied math with a computing specialization. I am interested in AI along with the mathematical models behind it.  
 Here are some quick facts about me: 
 
