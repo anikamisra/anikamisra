@@ -15,7 +15,7 @@ These are some of my skills:
 
 - **Data**: Time series data, big data, Pattern recognition, Hypothesis testing 
 
-- **Languages:** Python (Numpy, Tensorflow, Pandas, Scikit-Learn, Matplotlib), C++, Excel, Tableau, SQL
+- **Languages:** Python (Numpy, Tensorflow, Pandas, Scikit-Learn, Matplotlib, XGBoost), C++, Excel, Tableau, SQL
 
 ### How to contact me ### 
 - [LinkedIn](https://www.linkedin.com/in/anika-misra/)
