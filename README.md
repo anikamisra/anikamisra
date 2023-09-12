@@ -19,3 +19,4 @@ These are some of my skills:
 
 ### How to contact me ### 
 - [LinkedIn](https://www.linkedin.com/in/anika-misra/)
+- Email: anikamisra@ucla.edu
