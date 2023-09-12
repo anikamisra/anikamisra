@@ -18,5 +18,5 @@ These are some of my skills:
 - **Languages:** Python (Numpy, Tensorflow, Pandas, Scikit-Learn, Matplotlib, XGBoost), C++, Excel, Tableau, SQL
 
 ### How to contact me ### 
-- [LinkedIn](https://www.linkedin.com/in/anika-misra/)
-- Email: anikamisra@ucla.edu
+- 👨🏻‍💻 LinkedIn: [anika-misra](https://www.linkedin.com/in/anika-misra/)
+- 📧 Email: anikamisra@ucla.edu
