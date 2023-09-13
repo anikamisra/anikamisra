@@ -16,7 +16,7 @@ These are some of my skills:
 - **ML Libraries:** XGBoost, Tensorflow, Keras, Scikit-Learn
 - **Visualizations**: Tableau, Matplotlib, Seaborn, Excel  
 - **Languages:** Python (Numpy, Pandas, Tensorflow), C++, SQL
-- **Other**: Time series data, Big data, Pattern recognition, Hypothesis testing, Data engineering
+- **Other**: Time series data, Big data, Pattern recognition, Hypothesis testing
 
 ### Contact me ### 
 - 👨🏻‍💻 LinkedIn: [anika-misra](https://www.linkedin.com/in/anika-misra/)
