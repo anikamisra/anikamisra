@@ -11,14 +11,14 @@ Here are some quick facts about me:
 ### Skills ### 
 These are some of my skills: 
 
-- **Machine Learning**: Logistic & linear regression, Deep Learning, NLP, LSTM, Unsupervised Learning, K-means & KNN clustering
-- **Deep Learning**: LSTM
-- **ML Libraries:** XGBoost, Tensorflow, Scikit-Learn
+- **Machine Learning**: Logistic & linear regression, Feature engineering, Unsupervised Learning, K-means & KNN clustering
+- **Deep Learning**: LSTM, Natural Language Processing
+- **ML Libraries:** XGBoost, Tensorflow, Keras, Scikit-Learn
 - **Visualizations**: Tableau, Matplotlib, Seaborn, Excel  
 - **Languages:** Python (Numpy, Pandas, Tensorflow), C++, SQL
-- **Data**: Time series data, Big Data, Pattern recognition, Hypothesis testing
+- **Other**: Time series data, Big data, Pattern recognition, Hypothesis testing, Data engineering
 
-### How to contact me ### 
+### Contact me ### 
 - 👨🏻‍💻 LinkedIn: [anika-misra](https://www.linkedin.com/in/anika-misra/)
 
 - 📧 Email: anikamisra@ucla.edu
