@@ -1,17 +1,12 @@
 ### Hi there 👋 ###
-My name is Anika, and I'm a senior at UCLA studying applied math with a computing specialization. I am interested in AI and the mathematical models behind it.
-
-### Skills ### 
-These are some of my skills: 
-
-- **Machine Learning**: Logistic & linear regression, Feature engineering, Unsupervised Learning, K-means & KNN clustering
-- **Deep Learning**: LSTM, Natural Language Processing
-- **ML Libraries:** XGBoost, Tensorflow, Keras, Scikit-Learn
-- **Visualizations**: Tableau, Matplotlib, Seaborn, Excel  
-- **Languages:** Python (Numpy, Pandas, Tensorflow), C++, SQL
-- **Other**: Time series data, Big data, Pattern recognition, Hypothesis testing
+My name is Anika, and I'm a senior at UCLA studying Applied Math with a Computing Specialization. Here are some of my projects: 
+1. Pink Tax Checker
+   - My current project where I am analyzing e-commerce data to determine which labels lead to higher prices. 
+2. Chordy
+   - A class project in my Python class where we webscraped chord data and generated a program that can play the chord progression of your favorite songs. 
+3. Name Gender Predictor
+   - A personal coding project where I created 4 models that can predict a binary gender based on the nam
 
 ### Contact me ### 
 - 👨🏻‍💻 LinkedIn: [anika-misra](https://www.linkedin.com/in/anika-misra/)
-
 - 📧 Email: anikamisra [at] ucla.edu
