@@ -1,5 +1,5 @@
 ### Hi there 👋 ###
-My name is Anika, and I'm a senior at UCLA studying Applied Math with a Computing Specialization. Here is a "Table of Contents" for my projects: 
+My name is Anika, and I'm a senior at UCLA studying Applied Math with a Computing Specialization. Here are some of my favorite projects: 
 1. [Pink Tax Checker](https://github.com/anikamisra/pink-tax)
    - My current project where I am analyzing e-commerce data to determine which labels lead to higher prices. 
 2. [Chordy](https://github.com/anikamisra/PIC16B-project)
